@@ -1,0 +1,4 @@
+# Szablony mailowe - wymagają specyficznego formatowania HTML4
+# kompatybilnego ze starymi klientami pocztowymi
+test_project/szablony mailowe - colonnade/**/*.html
+test_project/**/tmp/**/*.html
